@@ -1,0 +1,4 @@
+.DS_Store
+/files/*
+tweet.js
+/node_modules

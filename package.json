@@ -1,0 +1,15 @@
+{
+  "name": "twitter-archive-to-markdown-files",
+  "version": "1.0.0",
+  "description": "Convert a twitter archive to markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Roobottom",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "moment": "^2.29.1"
+  }
+}
